@@ -50,3 +50,10 @@
 + (NSString *)getDeviceLanguage;
 @end
 ```
+
+### License
+
+This repositorie is released under the under [MIT License](https://github.com/liuzhongning/NNDeviceInformation/blob/master/LICENSE)
+
+
+
